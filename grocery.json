@@ -1,0 +1,86 @@
+{
+    "grocery": [
+
+        {
+            "SerialNo": 1,
+            "itemname": "Rice",
+            "quantity": "10",
+            "unit": "kg",
+            "price": "120",
+            "Department": "Grocery"
+        },
+        
+        {
+            "SerialNo": 3,
+            "itemname": "MaSerialNoa",
+            "quantity": "1",
+            "unit": "kg",
+            "price": "25",
+            "Department": "Grocery"
+        },
+        {
+            "SerialNo": 4,
+            "itemname": "Sugar",
+            "quantity": "3",
+            "unit": "kg",
+            "price": "45",
+            "Department": "Grocery"
+        },
+        {
+            "SerialNo": 5,
+            "itemname": "Coffee",
+            "quantity": "500",
+            "unit": "gm",
+            "price": "85",
+            "Department": "Grocery"
+        },
+        {
+            "SerialNo": 6,
+            "itemname": "Butter",
+            "quantity": "200",
+            "unit": "gm",
+            "price": "36",
+            "Department": "Grocery"
+        },
+        {
+            "SerialNo": 7,
+            "itemname": "Pasta",
+            "quantity": "750",
+            "unit": "gm",
+            "price": "47",
+            "Department": "Grocery"
+        },
+        {
+            "SerialNo": 8,
+            "itemname": "milk powder",
+            "quantity": "500",
+            "unit": "gm",
+            "price": "90",
+            "Department": "Grocery"
+        },
+        {
+            "SerialNo": 9,
+            "itemname": "green tea",
+            "quantity": "100",
+            "unit": "gm",
+            "price": "65",
+            "Department": "Grocery"
+        },
+        {
+            "SerialNo": 10,
+            "itemname": "peas",
+            "quantity": "500",
+            "unit": "gm",
+            "price": "27",
+            "Department": "Grocery"
+        }, {
+            "SerialNo": 11,
+            "itemname": "milk",
+            "quantity": "500",
+            "unit": "ml",
+            "price": "20",
+            "Department": "Grocery"
+           
+        }
+    ]
+}
